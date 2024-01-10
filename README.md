@@ -1,5 +1,5 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Ryan Surya Pratama
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Ryan Surya Pratamaa
 
 ### Dibuat Oleh :
 ##### Ryan Surya Pratama
